@@ -1,0 +1,12 @@
+#div1 {
+    background-color:blueviolet; display: block;
+
+}
+#div2 {
+    background-color:chartreuse;display: inline;
+}
+.div3 {
+    background-color: coral;display: flex;
+
+}
+
